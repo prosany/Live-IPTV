@@ -1,14 +1,14 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/prosany/Live-IPTV/main/channel-logo/starjolsha.jpg" tvg-name="Star Jolsha"  group-title="India",Star Jolsha
+#EXTINF:-1, tvg-logo="./channel-logo/starjolsha.jpg" group-title="India",Star Jolsha
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/prosany/Live-IPTV/main/channel-logo/starjolsha.jpg" tvg-name="Sony Max"  group-title="India",Sony Max
+#EXTINF:-1, tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="India",Sony Max
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/prosany/Live-IPTV/main/channel-logo/starjolsha.jpg" tvg-name="Jamuna Tv"  group-title="India",Jamuna Tv
+#EXTINF:-1, tvg-logo="./channel-logo/jamuna-tv.jpg" group-title="Bangladesh",Jamuna Tv
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/prosany/Live-IPTV/main/channel-logo/starjolsha.jpg" tvg-name="ATN Bangla"  group-title="Bangladesh",ATN Bangla
+#EXTINF:-1, tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Bangladesh",ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 
