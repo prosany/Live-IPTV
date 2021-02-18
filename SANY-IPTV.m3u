@@ -8,3 +8,6 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prosany/Live-IPTV/main/channel-logo/starjolsha.jpg" group-title="India",Jamuna Tv
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prosany/Live-IPTV/main/channel-logo/starjolsha.jpg" group-title="India",Discovery
+http://tv2.ebox.live:8080/live/discovery.m3u8
