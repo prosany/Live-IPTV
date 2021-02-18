@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prosany/Live-IPTV/main/channel-logo/starjolsha.jpg" group-title="India",Star Jolsha
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
