@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prosany/Live-IPTV/main/channel-logo/starjolsha.jpg" group-title="India",Star Jolsha
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/prosany/Live-IPTV/main/channel-logo/starjolsha.jpg" group-title="India",Sony Max
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
